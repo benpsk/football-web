@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Messi TV",
+        "link": "https://yallalive.io/",
+        "img": "assets/img/icon/messi.png",
+        "click": "Watch Live"
+    },
+
+    {
+        "title": "C. Ronaldo TV",
+        "link": "https://sport.kooralive.info/",
+        "img": "assets/img/icon/c-ronaldo.png",
+        "click": "Watch Live"
+
+    },
+
+    {
+        "title": "Ronaldo TV",
+        "link": "https://goal.yalla--live.com/",
+        "img": "assets/img/icon/ronaldo.png",
+        "click": "Watch Live"
+
+    },
+    {
+        "title": "PSG TV",
+        "link": "https://lives.kora-live-new.com/",
+        "img": "assets/img/icon/neymar.png",
+        "click": "Watch Live"
+
+    },
+    {
+        "title": "Benzema TV",
+        "link": "https://www.live-kooora-tv.com/",
+        "img": "assets/img/icon/benzema.jpg",
+        "click": "Watch Live"
+
+    },
+    {
+        "title": "Bonucci TV",
+        "link": "https://ma.livekoora.online/",
+        "img": "assets/img/icon/bonucci.jpg",
+        "click": "Watch Live"
+
+    },
+    {
+        "title": "Debruyne TV",
+        "link": "https://ww.alkoora.live/",
+        "img": "assets/img/icon/debruyne.jpg",
+        "click": "Watch Live"
+
+    },
+    {
+        "title": "Haaland TV",
+        "link": "https://kooora4us.com:2096/",
+        "img": "assets/img/icon/haaland.jpg",
+        "click": "Watch Live"
+    },
+
+    {
+        "title": "Lewandowski TV",
+        "link": "https://tv.yala-live.com/",
+        "img": "assets/img/icon/lewandowski.jpg",
+        "click": "Watch Live"
+    },
+    {
+        "title": "Salah TV",
+        "link": "https://www.discoverinmyanmar.net/",
+        "img": "assets/img/icon/salah.jpg",
+        "click": "Watch Live"
+    }
+
+]
